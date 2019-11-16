@@ -1,9 +1,9 @@
-# Lab-08
+# Lab-09
 Node, npm and Express
 # Project Name
 
-**Author**: Roman Sydoruk, Ehsan Ghafari
-**Version**: 1.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Author**: Roman Sydoruk, Shubham Majumdar
+**Version**: 1.0.4 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for this class. (i.e. What's your problem domain?) -->
@@ -33,40 +33,40 @@ We use JavaScript, the Express library, and Superagent.
 
 Number and name of feature: __Repo setup______________________________
 
-Estimate of time needed to complete: _30 mins____
+Estimate of time needed to complete: _10 mins____
 
-Start time: __12;30 pm___
+Start time: __06;30 pm___
 
-Finish time: _1:00 pm____
+Finish time: _6:40 pm____
 
-Actual time needed to complete: _30 mins____
+Actual time needed to complete: _10 mins____
 
 Number and name of feature: _______Feature2_________________________
 
 Estimate of time needed to complete: __1 hour___
 
-Start time: ___1pm__
+Start time: ___6:40pm__
 
-Finish time: _2pm____
+Finish time: _7:40pm____
 
 Actual time needed to complete: __1 hour___
 
 Number and name of feature: ______3__________________________
 
-Estimate of time needed to complete: ___1 hour__
+Estimate of time needed to complete: ___2 hour__
 
-Start time: _2pm____
+Start time: _7:40pm____
 
-Finish time: ___3pm__
+Finish time: ___10pm__
 
-Actual time needed to complete: _1 hour____
+Actual time needed to complete: _2 hour 20 min____
 
 Number and name of feature: _____________4___________________
 
 Estimate of time needed to complete: __1 hour___
 
-Start time: __5:30 pm___
+Start time: __10:00 pm___
 
-Finish time: ___7:30pm__
+Finish time: ___11pm__
 
-Actual time needed to complete: ___2 hours__
+Actual time needed to complete: ___1 hours__
