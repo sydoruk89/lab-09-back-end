@@ -5,8 +5,10 @@ const location= require('./location.js');
 const client = require('./client.js');
 
 function getLocation(request, response) {
+  const city = request.query.data;
   const SQL = 'SELECT * FROM locations WHERE search_query= $1';
-  client.query(SQL)
+  let val = [city];
+  client.query(SQL, val)
     .then( result => {
       if (result.rowCount > 0) {
         console.log('Location data from SQL');
